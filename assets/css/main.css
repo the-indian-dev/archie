@@ -74,7 +74,7 @@ body {
 ::-moz-selection { background: var(--color-primary, #E684AE); color: var(--color-background, #FBF9F4); }
 
 /* Typography */
-p { font-family: 'PP Editorial New', Georgia, serif; line-height: var(--line-height-content, 1.6); margin-block: 0.5em; }
+p { font-family: Georgia, serif; line-height: var(--line-height-content, 1.6); margin-block: 0.5em; }
 hr { border: 0; border-block-start: 3px dotted var(--color-border, #A09DA8); margin-block: 1em; }
 blockquote { border-inline-start: 3px solid var(--color-border, #A09DA8); padding-inline-start: 1em; color: var(--color-text-muted, #646178); margin: 0; font-style: italic; font-weight: 200; font-family: 'PP Editorial New', Georgia, serif; }
 
